@@ -1,0 +1,2 @@
+rootProject.name='MaterialLight'
+include ':app'

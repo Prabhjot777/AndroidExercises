@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:title="Activity A"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:id="@+id/actionBarItem1"/>
+
+    <item android:title="Activity B"
+        android:orderInCategory="101"
+        app:showAsAction="always"
+        android:id="@+id/actionBarItem2"/>
+
+
+    <item android:title="Activity C"
+        android:orderInCategory="103"
+        app:showAsAction="always"
+        android:id="@+id/actionBarItem3"/>
+
+</menu>
